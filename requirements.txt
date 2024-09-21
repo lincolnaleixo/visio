@@ -1,0 +1,4 @@
+# Requirements file generated from Pipfile.lock
+# Generated on 2024-09-21
+
+# Add your dependencies here
